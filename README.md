@@ -1,2 +1,1 @@
-# C-Projects-and-Examples
-C++ Projects and Examples 
+C projects and examples
